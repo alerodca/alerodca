@@ -2,7 +2,7 @@
 
 ## Soy Alejandro, un apasionado Programador iOS en formación.
 
-![iOS Developer](🧑🏻‍💻)
+![iOS Developer 🧑🏻‍💻]
 
 ## Acerca de mí
 
