@@ -35,7 +35,7 @@ Aunque soy nuevo en GitHub, estoy emocionado de contribuir a proyectos de códig
 
 - [LinkedIn](https://www.linkedin.com/in/alejandro-rodr%C3%ADguez-ca%C3%B1ete-43160b281/)
 - [Instagram](https://www.instagram.com/aleerc04/)
-- [Correo electrónico](ale.rodca04@gmail.com)
+- Correo: Ale.rodca04@gmail.com
 
 ¡Gracias por visitar mi perfil! Si tienes algún consejo o sugerencia, no dudes en contactarme. Estoy ansioso por aprender y crecer como desarrollador iOS. ¡Espero tener la oportunidad de trabajar en proyectos increíbles!
 
