@@ -21,7 +21,7 @@ Soy un entusiasta de la tecnología y un apasionado del desarrollo de aplicacion
 Aunque aún no tengo proyectos profesionales, he trabajado en algunos proyectos personales para aplicar lo que he aprendido. Algunos de ellos son:
 
 - [EmojiApp](https://github.com/alerodca/EmojiApp): Una pequeña app qu detecta un cambio y muestra un emoji u otro.
-- [ChatApp](https://github.com/alerodca/FireChat): App de chat que implementa Firebase (aún en curso).
+- [ChatApp](https://github.com/alerodca/FireChat): App chat que implementa Firebase.
 
 ## Mis Objetivos
 
