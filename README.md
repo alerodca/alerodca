@@ -22,6 +22,7 @@ Aunque aún no tengo proyectos profesionales, he trabajado en algunos proyectos 
 
 - [EmojiApp](https://github.com/alerodca/EmojiApp): Una pequeña app que detecta cambios y muestra diferentes emojis.
 - [ChatApp](https://github.com/alerodca/FireChat): App chat que implementa Firebase.
+- [Rick and Morty](https://github.com/alerodca/RickAndMorty-Characters): Muestra los personajes de famosa serie "Rick and Morty", además de una vista detallada de cada personaje.
 
 ## Mis Objetivos
 
