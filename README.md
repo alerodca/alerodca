@@ -20,6 +20,7 @@ Soy un entusiasta de la tecnología y un apasionado del desarrollo de aplicacion
 
 Aunque aún no tengo proyectos profesionales, he trabajado en algunos proyectos personales para aplicar lo que he aprendido. Algunos de ellos son:
 
+- [iOS Calculator](https://github.com/alerodca/IOSCalculator): Calculadora que imita a la del Sistema iOS
 - [EmojiApp](https://github.com/alerodca/EmojiApp): Una pequeña app que detecta cambios y muestra diferentes emojis.
 - [ChatApp](https://github.com/alerodca/FireChat): App chat que implementa Firebase.
 - [Rick and Morty](https://github.com/alerodca/RickAndMorty-Characters): Muestra los personajes de famosa serie "Rick and Morty", además de una vista detallada de cada personaje.
