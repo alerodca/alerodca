@@ -13,18 +13,20 @@ Soy un entusiasta de la tecnología y un apasionado del desarrollo de aplicacion
 - **Swift**: He estado estudiando el lenguaje Swift, el cual es esencial para el desarrollo de aplicaciones iOS.
 - **Xcode**: Me he familiarizado con la plataforma de desarrollo Xcode y he trabajado en pequeños proyectos para mejorar mis habilidades.
 - **Interfaz de Usuario**: Tengo un buen ojo para el diseño y la creación de interfaces de usuario atractivas y funcionales.
-- **Control de Versiones**: Estoy familiarizado a usar control de versiones en mis proyectos personales.
+- **Control de Versiones**: Estoy familiarizado a usar control de versiones en mis proyectos.
 - **Organizador de Tareas**: Estoy familiarizado con Organizadores de tareas como Trello.
 
 ## Mis Proyectos
 
 Aunque aún no tengo proyectos profesionales, he trabajado en algunos proyectos personales para aplicar lo que he aprendido. Algunos de ellos son:
 
-- [iOS Calculator](https://github.com/alerodca/IOSCalculator): Calculadora que imita a la del Sistema iOS
-- [EmojiApp](https://github.com/alerodca/EmojiApp): Una pequeña app que detecta cambios y muestra diferentes emojis.
-- [ChatApp](https://github.com/alerodca/FireChat): App chat que implementa Firebase (MVVM).
-- [Rick and Morty](https://github.com/alerodca/RickAndMorty-Characters): Muestra los personajes de famosa serie "Rick and Morty", además de una vista detallada de cada personaje (MVC).
-- [Pokédex](https://github.com/alerodca/Pokedex): Pokédex de la famosa saga de videojuegos "Pokémon".
+- [iOS Calculator](https://github.com/alerodca/IOSCalculator)
+- [EmojiApp](https://github.com/alerodca/EmojiApp)
+- [ChatApp](https://github.com/alerodca/FireChat)
+- [Rick and Morty](https://github.com/alerodca/RickAndMorty-Characters)
+- [Pokédex](https://github.com/alerodca/Pokedex)
+- [RandomColor](https://github.com/alerodca/RandomColor)
+- [CardWorkOut](https://github.com/alerodca/CardWorkout)
 
 ## Mis Objetivos
 
