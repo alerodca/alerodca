@@ -20,6 +20,7 @@ Soy un entusiasta de la tecnología y un apasionado del desarrollo de aplicacion
 
 Aunque aún no tengo proyectos profesionales, he trabajado en algunos proyectos personales para aplicar lo que he aprendido. Algunos de ellos son:
 
+- [Movie_DB](https://github.com/alerodca/MovieDB)
 - [iOS Calculator](https://github.com/alerodca/IOSCalculator)
 - [EmojiApp](https://github.com/alerodca/EmojiApp)
 - [ChatApp](https://github.com/alerodca/FireChat)
